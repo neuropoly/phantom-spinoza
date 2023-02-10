@@ -5,7 +5,34 @@ CAD model and recipe for MRI head-torso phantom fabrication
 
 ## Recipe
 
-TODO
+Phantom physical characteristics:
+- Inner volume: 14.156 L
+- Total phantom weight: 16.257 kg
+
+Based on this [recipe](https://amri.ninds.nih.gov/cgi-bin/phantomrecipe): 
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/2482071/218194541-e70796ac-888b-4f0d-938a-c0b9493f01b1.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/2482071/218194552-76b2efde-d5aa-4177-8b61-b956b3651892.png">
+
+Ingredients:
+- Water (demineralized): 9,900 mL
+- Mouthwash (no alcohol): 600 mL (~4% of final volume)
+- Salt: 254 g
+- Sugar: 7,913 g
+- Agar: 116g (0.75% of final volume)
+
+> **Note**
+> The mouthwash amount (600 mL) is subtracted from the estimated water volume (10,500ml).
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/2482071/218194874-fe055065-314a-4f54-a4bf-cb6dfae6ce48.png">
+
+## Parameters (@3T)
+
+- Conductivity: 0.74 S/m
+- Permittivity: 68.5
+- T1: ~500 ms
+- T2: ~50 ms
+- T2*: ~10 ms
 
 ## Tips
 
