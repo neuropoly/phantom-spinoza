@@ -1,7 +1,8 @@
 # phantom-spinoza
+
 CAD model and recipe for MRI head-torso phantom fabrication
 
-[link to picture]
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/2482071/218195449-e91c9f69-b2c5-46ff-ad4c-8ceca5081e5f.png">
 
 ## Recipe
 
