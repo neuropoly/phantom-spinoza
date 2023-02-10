@@ -31,5 +31,3 @@ Mixture preparation:
 - Wait for temp to reach 60 deg.
 - Pour the mixture into the phantom avoiding bubbles.
 
-![image](https://user-images.githubusercontent.com/2482071/218194145-c5aa1cb5-2ebc-43fa-90c2-fdf0c2ae87a1.png)
-
