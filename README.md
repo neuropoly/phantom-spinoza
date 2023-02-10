@@ -23,7 +23,7 @@ Ingredients:
 - Agar: 116g (0.75% of final volume)
 
 > **Note**
-> The mouthwash amount (600 mL) is subtracted from the estimated water volume (10,500ml).
+> The mouthwash amount (600 mL) is included in the estimated water volume (10,500ml).
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/2482071/218194874-fe055065-314a-4f54-a4bf-cb6dfae6ce48.png">
 
@@ -34,6 +34,11 @@ Ingredients:
 - T1: ~500 ms
 - T2: ~50 ms
 - T2*: ~10 ms
+
+## Parameters (@7T)
+
+- Conductivity: 0.78 S/m
+- Permittivity: 63.3
 
 ## Tips
 
