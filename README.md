@@ -50,7 +50,7 @@ Phantom shell construction:
 - Description: The phantom shell was divided in two parts for 3D printing to provide a hole of 110mm in diameter at the top of the head. This opening is needed to manually remove 3D-printed supports and finish the inner surface by sanding and waterproofing. The shell has also a D-shaped filling hole on one side where a PVC reducing bushing (Schedule 40 ¾ spigot X ½ FTP) is manually D-shaped and glued. After filling the phantom, the bushing is closed with a PVC plug (Schedule 40 ½ MPT).
 - Printing material: PLA 2.0 EcoTough™
 - Printer: Modix BIG-60
-- Printing parameters: [NeckPhantom6] 
+- Printing parameters: [NeckPhantom6](https://github.com/neuropoly/phantom-spinoza/blob/main/NeckPhantom6.curaprofile). 
 - Remove all 3D-printing supports and residues from all surfaces.
 - Smooth all surfaces carefully with sandpaper (120 and 220 grit).
 - Waterproof inner surfaces by coating it with epoxy (e.g., Smooth-On, XTC-3D™). 
