@@ -26,8 +26,9 @@ Ingredients:
 - Sugar: 7,913 g
 - Agar: 116g (0.75% of final volume)
 
-> **Note**
-> The mouthwash amount (600 mL) is included in the estimated water volume (10,500ml).
+> **Notes**
+> The mouthwash amount (600 mL) is included in the estimated water volume (10,500ml). Mouthwash is used to prevent the growth of bacteria that is likely to occur in a mixture containing sugar and agar. It was assumed that the efficacy of an alcohol-based mouthwash would be reduced due to the rapid evaporation of the alcohol portion during the mixing process due to the high temperature required. For this reason, an alcohol-free mouthwash was selected.
+> Our goal was to obtain a mixture that mimicked the average human tissue in the region of interest in terms of dielectric parameters and relaxation times. To do this, we had to find a trade-off between [sugar](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1118/1.4895823) and [agar] (https://aapm.onlinelibrary.wiley.com/doi/full/10.1118/1.3656077) concentrations, since both affect relaxation times, and sugar is used to control permittivity. This allowed us to keep the permittivity and relaxation times within the range of human tissues while still producing a gel.  
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/2482071/218194874-fe055065-314a-4f54-a4bf-cb6dfae6ce48.png">
 
@@ -61,15 +62,15 @@ Phantom shell construction:
 
 Mixture preparation:
 - Ensure that no contaminating particles can fall into the mixture.
-- Place large container on a hot plate and add water.
+- Place large container (20 liters) on a [hot plate](https://www.hubert.ca/product/75300/Cadco-CSR-3T-Stainless-Steel-Single-Burner-Hot-Plate-With-8Dia-Element---12-14L-x-14W-x-4-18W) and add water. A [hot pot with a faucet](https://www.homedepot.ca/product/camp-chef-19l-20-qt-aluminum-hot-water-pot/1001156780) is recommended.
 - Turn the hot plate on and wait for temperature to reach 60deg.
 - Start stirring and do not stop during the whole process. Avoid splashing. 
 - Add salt and dissolve it.
 - Add sugar gradually, dissolving each portion.
 - Add agar when the temperature has reached 90 deg and dissolve it.
 - Turn hot plate off. Continue stirring. 
-- Add mouthwash and stir for a few minutes to homogenize the mixture.
+- Add mouthwash and stir for a few minutes to homogenize the mixture. 
 - Continue stirring for some time to prevent the mixture from burning at the bottom of the container.
-- Wait for temp to reach 60 deg.
-- Pour the mixture into the phantom avoiding bubbles.
+- Wait for temp to reach 60 deg to to facilitate the release of air bubbles.
+- Pour the mixture into the phantom avoiding bubbles. To do this, a hose connected to the pot's faucet and passing through the phantom inlet can be used to drive the mixture flow directly to one of the inner surfaces of the shell, as is done to fill a glass of beer.
 
