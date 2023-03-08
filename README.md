@@ -48,9 +48,12 @@ Ingredients:
 
 Phantom shell construction:
 - Printing material: PLA 2.0 EcoTough™
+- Printer: Modix BIG-60
+- Printing parameters: 
+- The phantom shell was divided in two parts for 3D printing to provide a hole of 110mm in diameter at the top of the head. This opening is needed to manually remove 3D-printed supports and finish the inner surface by sanding and waterproofing.
 - Remove all 3D-printin supports and residues from all surfaces.
-- Smooth surfaces carefully by sanding.
-- Waterproof inner surfaces with epoxy (e.g., Smooth-On XTC-3D). 
+- Smooth all surfaces carefully by sanding (120 and 220 grit).
+- Waterproof inner surfaces with epoxy (e.g., Smooth-On, XTC-3D). 
 - Glue the two parts of the shell together with epoxy or by plastic welding.
 - Reinforce exterior surfaces with epoxy and fiberglass.
 - Wash the inside of the phantom thoroughly.
