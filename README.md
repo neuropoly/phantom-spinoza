@@ -26,9 +26,8 @@ Ingredients:
 - Sugar: 7,913 g
 - Agar: 116g (0.75% of final volume)
 
-> **Notes**
-> The mouthwash amount (600 mL) is included in the estimated water volume (10,500ml). Mouthwash is used to prevent the growth of bacteria that is likely to occur in a mixture containing sugar and agar. It was assumed that the efficacy of an alcohol-based mouthwash would be reduced due to the rapid evaporation of the alcohol portion during the mixing process due to the high temperature required. For this reason, an alcohol-free mouthwash was selected.
-> Our goal was to obtain a mixture that mimicked the average human tissue in the region of interest in terms of dielectric parameters and relaxation times. To do this, we had to find a trade-off between [sugar](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1118/1.4895823) and [agar] (https://aapm.onlinelibrary.wiley.com/doi/full/10.1118/1.3656077) concentrations, since both affect relaxation times, and sugar is used to control permittivity. This allowed us to keep the permittivity and relaxation times within the range of human tissues while still producing a gel.  
+> **Note**
+> The mouthwash amount (600 mL) is included in the estimated water volume (10,500ml). Mouthwash is used to prevent the growth of bacteria that is likely to occur in a mixture containing sugar and agar. It was assumed that the efficacy of an alcohol-based mouthwash would be reduced due to the rapid evaporation of the alcohol portion during the mixing process due to the high temperature required. For this reason, an alcohol-free mouthwash was selected. 
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/2482071/218194874-fe055065-314a-4f54-a4bf-cb6dfae6ce48.png">
 
