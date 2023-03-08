@@ -47,6 +47,7 @@ Ingredients:
 ## Tips
 
 Phantom shell construction:
+- Printing material: PLA 2.0 EcoTough™
 - Remove all 3D-printin supports and residues from all surfaces.
 - Smooth surfaces carefully by sanding.
 - Waterproof inner surfaces with epoxy (e.g., Smooth-On XTC-3D). 
