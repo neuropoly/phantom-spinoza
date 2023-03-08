@@ -44,6 +44,9 @@ Ingredients:
 - Conductivity: 0.78 S/m
 - Permittivity: 63.3
 
+> **Note**
+> Our goal was to obtain a mixture that mimicked the average human tissue in the region of interest in terms of dielectric parameters and relaxation times. To do this, we had to find a trade-off between [sugar](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1118/1.4895823) and [agar](https://aapm.onlinelibrary.wiley.com/doi/full/10.1118/1.3656077) concentrations, since both affect relaxation times, and sugar is used to control permittivity. This allowed us to keep the permittivity and relaxation times within the range of human tissues while still producing a gel.
+
 ## Tips
 
 Phantom shell construction:
