@@ -47,16 +47,17 @@ Ingredients:
 ## Tips
 
 Phantom shell construction:
+- Description: The phantom shell was divided in two parts for 3D printing to provide a hole of 110mm in diameter at the top of the head. This opening is needed to manually remove 3D-printed supports and finish the inner surface by sanding and waterproofing. The shell has also a D-shaped filling hole on one side where a PVC reducing bushing (Schedule 40 ¾ spigot X ½ FTP) is manually D-shaped and glued. After filling the phantom, the bushing is closed with a PVC plug (Schedule 40 ½ MPT).
 - Printing material: PLA 2.0 EcoTough™
 - Printer: Modix BIG-60
-- Printing parameters: 
-- The phantom shell was divided in two parts for 3D printing to provide a hole of 110mm in diameter at the top of the head. This opening is needed to manually remove 3D-printed supports and finish the inner surface by sanding and waterproofing.
-- Remove all 3D-printin supports and residues from all surfaces.
-- Smooth all surfaces carefully by sanding (120 and 220 grit).
-- Waterproof inner surfaces with epoxy (e.g., Smooth-On, XTC-3D). 
-- Glue the two parts of the shell together with epoxy or by plastic welding.
-- Reinforce exterior surfaces with epoxy and fiberglass.
-- Wash the inside of the phantom thoroughly.
+- Printing parameters: [NeckPhantom6] 
+- Remove all 3D-printing supports and residues from all surfaces.
+- Smooth all surfaces carefully with sandpaper (120 and 220 grit).
+- Waterproof inner surfaces by coating it with epoxy (e.g., Smooth-On, XTC-3D™). 
+- After the inner surfaces of both parts are completely coated and dry, assemble the shell: glue or (plastic) weld its two sections and glue the PVC bushing. Use epoxy for gluing (J-B WELD, High Strength Plastic Bonder, Adhesive Syringe - Tan, 25 ml).
+- Reinforce exterior surfaces with epoxy (e.g., Smooth-On, XTC-3D™) and fiberglass (#120-38 Standard E-Glass Fiberglass Cloth). The fiberglass provides the phantom with additional resistance to moderate impacts. This [video](https://www.youtube.com/watch?v=ioj1YBm6bJY) shows how to select the fiberglass and [this one](https://www.youtube.com/watch?v=ujk-wBQDUSk) describes how to apply it. 
+- The fiberglass chosen is flexible, easy to work with, inexpensive, and strong enough for this application. Note that the Phantom is heavy when fully loaded (17kg) and a strong impact such as a drop will likely render the shell useless, even if a stronger and more expensive reinforcing material such as carbon fiber is used.
+- Thoroughly clean the interior of the coated shell and test it for waterproofness by filling it with water and inspecting it after 24 hours.
 
 Mixture preparation:
 - Ensure that no contaminating particles can fall into the mixture.
