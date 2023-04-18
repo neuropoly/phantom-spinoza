@@ -14,17 +14,18 @@ Phantom physical characteristics:
 - Inner volume: 14.156 L
 - Total phantom weight: 16.257 kg
 
-Based on this [recipe](https://amri.ninds.nih.gov/cgi-bin/phantomrecipe): 
-
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/2482071/218194541-e70796ac-888b-4f0d-938a-c0b9493f01b1.png">
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/2482071/218194552-76b2efde-d5aa-4177-8b61-b956b3651892.png">
-
 Ingredients:
 - Water (demineralized): 9,900 mL
 - Mouthwash (no alcohol): 600 mL (~4% of final volume)
 - Salt: 254 g
 - Sugar: 7,913 g
 - Agar: 116g (0.75% of final volume)
+
+Estimated permittivity and conductivity based on [this website](https://amri.ninds.nih.gov/cgi-bin/phantomrecipe): 
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/2482071/218194541-e70796ac-888b-4f0d-938a-c0b9493f01b1.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/2482071/218194552-76b2efde-d5aa-4177-8b61-b956b3651892.png">
+
 
 > **Note**
 > The mouthwash amount (600 mL) is included in the estimated water volume (10,500ml). Mouthwash is used to prevent the growth of bacteria that is likely to occur in a mixture containing sugar and agar. It was assumed that the efficacy of an alcohol-based mouthwash would be reduced due to the rapid evaporation of the alcohol portion during the mixing process due to the high temperature required. For this reason, an alcohol-free mouthwash was selected. 
