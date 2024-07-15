@@ -6,7 +6,7 @@ CAD model and recipe for MRI head-torso phantom fabrication
 
 ## Citation
 
-> Rios NL, Gilbert KM, Papp D, Cereza G, Foias A, Rangaprakash D, May MW, Guerin B, Wald LL, Keil B, Stockmann JP, Barry RL, Cohen-Adad J. 8-channel Tx dipole and 20-channel Rx loop coil array for MRI of the cervical spinal cord at 7 Tesla [Internet]. 2023. Available from: http://biorxiv.org/lookup/doi/10.1101/2023.02.08.527664
+> Lopez-Rios N, Gilbert KM, Papp D, Cereza G, Foias A, Rangaprakash D, May MW, Guerin B, Wald LL, Keil B, Stockmann JP, Barry RL, Cohen-Adad J. _An 8-channel Tx dipole and 20-channel Rx loop coil array for MRI of the cervical spinal cord at 7 Tesla_. NMR Biomed, 36(11):e5002, 2023. https://pubmed.ncbi.nlm.nih.gov/37439129/
 
 ## Recipe
 
