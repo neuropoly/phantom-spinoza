@@ -1,5 +1,7 @@
 # phantom-spinoza
 
+[![DOI Badge](https://zenodo.org/badge/DOI/10.5281/zenodo.13830374.svg)](https://zenodo.org/doi/10.5281/zenodo.13830374)
+
 CAD model and recipe for MRI head-torso phantom fabrication
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/2482071/218195449-e91c9f69-b2c5-46ff-ad4c-8ceca5081e5f.png">
